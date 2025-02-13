@@ -1,0 +1,21 @@
+<svg width="217" height="46" viewBox="0 0 217 217" xmlns="http://www.w3.org/2000/svg">
+
+    <!-- Clock Circle
+    <circle cx="100" cy="90" r="80" stroke="#007BFF" stroke-width="6" fill="none" /> -->
+    
+    <!-- Clock Hands
+    <line x1="100" y1="200" x2="100" y2="50" stroke="#007BFF" stroke-width="8" stroke-linecap="round" />
+    <line x1="200" y1="100" x2="10" y2="110" stroke="#007BFF" stroke-width="8" stroke-linecap="round" /> -->
+    
+    Stethoscope Tube
+    <path d="M 10 150 C 50 210, 160 210, 200 150" stroke="#007BFF" stroke-width="10" fill="none" />
+    
+    <!-- Stethoscope Earpieces
+    <circle cx="60" cy="80" r="10" fill="#007BFF" />
+    <circle cx="140" cy="80" r="10" fill="#007BFF" /> -->
+
+    <!-- Stethoscope Chestpiece
+    <circle cx="100" cy="100" r="20" stroke="#007BFF" stroke-width="4" fill="white" /> -->
+    <!-- Logo Text -->
+    <text x="-100" y="100" font-size="100" font-family="Arial, sans-serif" fill="#007BFF" font-weight="bold">DocTime</text>
+</svg>
